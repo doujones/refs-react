@@ -45,9 +45,9 @@ const FuncCustomComponent = () => {
   )
 }
 
+// End of Functional Components
 
-
-
+// Beginning of Class Components
 class App extends Component{
   onClick = () => {
   }
@@ -104,4 +104,6 @@ class App extends Component{
     )
   }
 }
+
+// End of Class Components
 export default App;
